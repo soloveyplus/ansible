@@ -1,1 +1,0 @@
-ansible-playbook install.yml -i files/servers.inventory -k
