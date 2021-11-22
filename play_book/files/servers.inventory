@@ -1,0 +1,3 @@
+node1 ansible_ssh_host=192.168.1.57 ansible_ssh_name=node1 ansible_ssh_user=root
+node2 ansible_ssh_host=192.168.1.58 ansible_ssh_name=node2 ansible_ssh_user=root
+node3 ansible_ssh_host=192.168.1.55 ansible_ssh_name=node3 ansible_ssh_user=root
