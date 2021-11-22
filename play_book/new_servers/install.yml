@@ -23,7 +23,6 @@
         - nfs-utils
         - rsyslog
         - python3
-        - tar
       state: latest
 
   - name: Отключаем SELinux
